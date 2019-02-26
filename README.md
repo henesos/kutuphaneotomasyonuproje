@@ -11,7 +11,7 @@ Nesne tabanlı programlama dersi için yapmış olduğum kütüphane otomasyonu 
 Yönetici
 
 
-yönetici id = (11111111111)            ---> 11 tane 1 TC NO olarak giriş yapıyor yani kullanıcı adı (11111111111)
+yönetici id = (11111111111)            ---> 11 tane 1 TC NO olarak giriş yapıyor
 yönetici şifre = (111111111)           ---> 9 tane 1 şifresi 
 
 Bu bilgilerle giriş yapıldığında program sizi YÖNETİCİ menüsüne atacaktır.
