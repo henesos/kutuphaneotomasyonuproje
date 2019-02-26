@@ -1,0 +1,20 @@
+
+- Kodlamayý Visual Studio 2017 programýnda yaptýðýmdan dolayý eski sürümlerde çalýþmayan parçalarý olabilir!
+
+-Veritabaný Baðlanmazsa çalýþmaya bilir yolu kendi bilgisayarýmdaki gibidir. 
+
+-Programa giriþ yaparken  
+
+Yönetici
+{
+yönetici id = (11111111111)            ---> 11 tane 1. TC NO olarak giriþ yapýyor
+yönetici þifre = (111111111)              -> 9 tane 1 þifresi
+
+Bu bilgilerle giriþ yapýldýðýnda program sizi YÖNETÝCÝ menüsüne atacaktýr.
+}
+Kullanýcý
+{
+kullanýcý id = ( 22222222222)             --> 11 tane 2. TC NO
+kullanýcý þifre = (222222222)             --> 9 tane 2 þifresi
+
+Bu bilgilerle giriþ yapýldýðýnda program sizi KULLANICI menüsüne atacaktýr.
