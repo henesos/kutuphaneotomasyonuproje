@@ -4,7 +4,7 @@ Nesne tabanlı programlama dersi için yapmış olduğum kütüphane otomasyonu 
 
 - Kodlamayı Visual Studio 2017 programında yaptığımdan dolayı eski sürümlerde çalışmayan parçaları olabilir!
 
-- Veritabanı Bağlanmazsa çalışmaya bilir yolu kendi bilgisayarımdaki gibidir. 
+- Veritabanı Bağlanmazsa çalışmayabilir yolu kendi bilgisayarımdaki gibidir. 
 
 Programa giriş yaparken:  
 
