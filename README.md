@@ -5,6 +5,7 @@ Nesne tabanlı programlama dersi için yapmış olduğum kütüphane otomasyonu 
 - Kodlamayı Visual Studio 2017 programında yaptığımdan dolayı eski sürümlerde çalışmayan parçaları olabilir!
 
 - Veri tabanı sorun çıkartırsa tekrar bağlayabilirsiniz. Acces uzantılı dosya içinde bulunuyor.
+  ( Acemi olduğum için her form sayfasında ayrı ayrı veritabanı yolu tanımlamışım o yüzden her forum sayfasında değişmesi gerekiyor)
 
 Programa giriş yaparken:  
 
